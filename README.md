@@ -52,17 +52,7 @@ LEX is not just a chatbot. It’s a **legal companion** that:
 > **LEX:**
 > “Got it. Please share the protocol number, date, and authority. I'll help you draft a complaint.”
 > ...
-> “Draft is ready. You must submit it within 10 days. Should I add this to your case file?”
-
----
-
-## ⚙️ Tech Stack
-
-* **Python** — core logic and modules
-* **Jinja2** — dynamic document templates
-* **Google Dork Search** — smart legal article & contact retrieval
-* **Markdown / JSON** — data structures and registry files
-* **Telegram API** — user-facing bot interface (demo)
+> “Draft is ready. You must submit it within 10 days. Should I add this to your case file?
 
 ---
 
